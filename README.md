@@ -1,32 +1,4 @@
 
-
-img{
-width:200px;
-height:150px;
-margin:10px;
-border-radius:8px;
-}
-
-.container{
-display:flex;
-flex-wrap:wrap;
-}
-
-.member{
-background:#f4f4f4;
-padding:15px;
-margin:10px;
-border-radius:8px;
-}
-
-footer{
-background:#333;
-color:white;
-text-align:center;
-padding:10px;
-}
-
-</style>
 </head>
 
 <body>
@@ -187,5 +159,3 @@ Address: Nadipur, Pokhara-3
     <p>Created by Student Project</p>
 </footer>
 
-</body>
-</html>
