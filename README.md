@@ -29,3 +29,41 @@
 
 </body>
 </html>
+body{
+    font-family: Arial;
+    margin:0;
+    background-color:#f2f2f2;
+}
+
+header{
+    background-color:#333;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    background-color:#555;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    padding:10px 20px;
+    text-decoration:none;
+}
+
+nav a:hover{
+    background-color:#777;
+}
+
+section{
+    padding:20px;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
