@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>ARTS Website</title>
 
-<style>
-
-body{
-font-family: Arial;
-margin:0;
-background:#f2f2f2;
-}
-
-header{
-background:#333;
-color:white;
-text-align:center;
-padding:20px;
-}
-
-section{
-background:white;
-margin:20px;
-padding:20px;
-border-radius:10px;
-}
-
-h2{
-color:#333;
-}
 
 img{
 width:200px;
